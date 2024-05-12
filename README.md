@@ -6,7 +6,7 @@ This tool is based On Google Gemini API, which is absolutely free!
 1. Clone this repository
    
    ```bash
-   git clone
+   git clone https://github.com/Vasiliy-katsyka/code-generator.git
    cd code-generator
    ```
    
