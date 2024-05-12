@@ -9,8 +9,7 @@ This tool is based On Google Gemini API, which is absolutely free!
    cd code-generator
    ```
 2. Get your API key (absolutely free)
-   
-   - Go to aistudio.google.com
+   - Go to [aistudio.google.com](https://aistudio.google.com)
    - Tap "Get API Key" and copy your key
    - Open main.py file and paste you API key into API_KEY variable
 4. Run main.py
